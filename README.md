@@ -22,13 +22,13 @@ La aplicación permitirá controlar inventario, registrar productos y gestionar 
 
 ## Cervezas Incluidas
 
-Águila
-Poker
-Club Colombia
-Costeña
-Pilsen
-Andina
-Corona
-Heineken
-Budweiser
-BBC
+-Águila
+-Poker
+-Club Colombia
+-Costeña
+-Pilsen
+-Andina
+-Corona
+-Heineken
+-Budweiser
+-BBC
