@@ -75,7 +75,7 @@ La aplicación está orientada a bares y pequeños negocios colombianos que nece
 - Organización de las pantallas principales.
 - Planeación de la navegación de la aplicación.
 
-### Módulo 6
+### Módulo 6 Futuros cambios
 - Actualización del README.
 - Definición de funcionalidades del sistema.
 - Organización de las marcas de cerveza que serán gestionadas.
