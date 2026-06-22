@@ -1,98 +1,63 @@
 # BeerStock Colombia
 
-Aplicación Android para inventario de cervezas en bares colombianos.
+## Descripción del proyecto
 
-## Descripción
+BeerStock Colombia es una aplicación móvil desarrollada para Android que permite gestionar el inventario de cervezas en pequeños bares y negocios colombianos. La aplicación facilita el registro de productos, la actualización de existencias y la consulta de reportes básicos.
 
-La aplicación permitirá controlar inventario, registrar productos y gestionar stock desde Android.
+## Problema
+
+Muchos establecimientos controlan su inventario de forma manual mediante cuadernos o hojas de cálculo, lo que puede generar errores, pérdidas económicas y dificultades para conocer el estado real de las existencias.
+
+## Objetivo
+
+Desarrollar una aplicación móvil sencilla y accesible que permita administrar el inventario de cervezas de manera eficiente, reduciendo errores y mejorando la organización del negocio.
+
+## Plataforma
+
+- Android Studio
+- Kotlin
+- SQLite
+- GitHub
 
 ## Funcionalidades
 
-- Login
-- Inventario
-- Registro de cervezas
-- Control de stock
-- Reportes
+- Inicio de sesión
+- Consulta de inventario
+- Agregar productos
+- Actualizar stock
+- Reportes básicos
+- Gestión local de datos mediante SQLite
 
-## Tecnologías
+## Wireframes
+<img width="880" height="738" alt="Captura de pantalla 2026-06-22 a las 6 37 50 p  m" src="https://github.com/user-attachments/assets/d9b745f0-694e-4f41-8b4d-7b994eec8e7a" />
 
+
+### Pantalla de Inicio de Sesión
+Permite ingresar al sistema mediante usuario y contraseña.
+
+### Menú Principal
+Permite acceder a las funciones principales de la aplicación.
+
+### Inventario
+Muestra los productos disponibles y sus cantidades.
+
+### Agregar Producto
+Permite registrar nuevos productos dentro del inventario.
+
+### Reportes
+Presenta información resumida sobre el estado del inventario.
+
+## Tecnologías utilizadas
+
+- Kotlin
 - Android Studio
 - SQLite
 - GitHub
 
-## Cervezas Incluidas
+## Autor
 
+Loren Delgado
 
--Águila
--Poker
--Club Colombia
--Costeña
--Pilsen
--Andina
--Corona
--Heineken
--Budweiser
--BBC
-## Estado Actual del Proyecto
+## Estado del proyecto
 
-BeerStock Colombia se encuentra actualmente en fase de diseño y planificación. Se han definido las funcionalidades principales, las pantallas de la aplicación y la estructura general del sistema mediante un wireframe elaborado en Figma.
-
-La aplicación está orientada a bares y pequeños negocios colombianos que necesitan controlar el inventario de cervezas de manera rápida, sencilla y organizada desde dispositivos Android.
-
-## Pantallas Diseñadas
-
-- Login
-- Menú Principal
-- Inventario
-- Agregar Producto
-- Reportes
-
-## Funciones del Usuario
-
-- Consultar inventario
-- Buscar productos
-- Registrar cervezas
-- Actualizar stock
-- Consultar precios
-
-## Funciones del Administrador
-
-- Agregar productos
-- Eliminar productos
-- Modificar cantidades
-- Revisar inventario
-- Generar reportes básicos
-
-## Registro de Cambios (Changelog)
-
-### Módulo 4
-- Selección de la idea del proyecto.
-- Definición del problema de control manual de inventarios.
-- Identificación de usuarios y necesidades.
-
-### Módulo 5
-- Diseño del wireframe en Figma.
-- Organización de las pantallas principales.
-- Planeación de la navegación de la aplicación.
-
-### Módulo 6 Futuros cambios
-- Actualización del README.
-- Definición de funcionalidades del sistema.
-- Organización de las marcas de cerveza que serán gestionadas.
-- Preparación de la documentación para GitHub Classroom.
-
-### Próximos Cambios (Módulo 7)
-
-- Implementar la aplicación en Android Studio.
-- Crear la base de datos SQLite.
-- Programar el registro de productos.
-- Programar la actualización de inventario.
-- Implementar generación de reportes.
-
-### Entrega Final (Módulo 8)
-
-- Finalizar la aplicación.
-- Realizar pruebas funcionales.
-- Corregir errores encontrados.
-- Actualizar documentación.
-- Publicar versión final del proyecto.
+Proyecto académico en desarrollo para el curso de Desarrollo de Aplicaciones Android.
